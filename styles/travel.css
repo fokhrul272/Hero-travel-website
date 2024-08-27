@@ -1,0 +1,14 @@
+body{
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+nav{
+
+}
+.nav-title{
+    color: #131318;
+    font-size: 36px;
+    font-weight: Extrabold;
+}
