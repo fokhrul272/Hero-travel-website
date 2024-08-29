@@ -331,11 +331,21 @@ main {
 .place-image {
   width: 612px;
 }
+.Bangladesh{
+  color: #FFFFFF;
+  font-size: 24px;
+  font-weight: bold;
+  width: 276px;
+  position: relative;
+  bottom: 250px;
+  left: 250px;
+}
 /* letter styles */
 .letter-container{
   display: flex;
   justify-content: space-between;
   margin-top: 100px;
+ 
 }
 .letter-content{
   width: 450px;
@@ -414,6 +424,7 @@ transform: scale(0.8) rotate(-25deg) translateY(275px) translateX(105px);
 footer{
   background-color: #13131844;
   text-align: center;
+  border-radius: 16px;
 }
 .footer-section{
   padding: 50px 100px;
@@ -565,7 +576,7 @@ footer{
     width: 380px;
   }
   .letter-content{
-    width: 350px;
+    width: 300px;
     margin-bottom: 20px;
   }
   .contact-1 input, #button{ 
@@ -584,6 +595,16 @@ footer{
     font-size: 16px;
     font-weight: 400px;
   }
+footer{
+  width: 360px;
 
+}
+.footer-description{
+  width: 250px;
+  margin-left: 0px;
+}
+.footer-section{
+  padding: 10px;
+}
 
 }
